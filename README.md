@@ -1,6 +1,7 @@
 # ICMP-Test-Tool-v1.0
 
- 
+# Execute the program by enetering python icmpTestToolv1.0.py at the command line.
+
 Fields and their required inputs:
 1.	Enter source IP Address: The user has to enter the IP address of the machine on which this software is running.
 2.	Enter Destination Address: The user has to enter the IP address of the Device Under Test.
@@ -18,3 +19,5 @@ One can escalate privilege by forming a valid comma separated command and enteri
 9.	Select the Run default Test case Check box to run test case as per ITSAR. If you want to test a particular ICMP sequence of ITSAR, you can enter manually.
 10.	Now click Send ICMP Packets.
 11.	If DUT connectivity is established, Red circular indicator will become green and tests will start. At end of the test, a PDF report and HTML report will be generated which will be in the program’s directory.
+
+Bugs can be mailed to uma.kant91@gov.in
