@@ -1,0 +1,24 @@
+# requirements.txt
+
+# Paramiko for SSH communication
+paramiko>=2.11.0
+
+# Chardet for detecting encoding issues
+chardet>=5.0.0
+
+#scapy
+scapy>=2.6.1
+
+#ntplib
+ntplib>=0.4.0
+
+#requests
+requests>=2.32.3
+
+#reportlab
+reportlab>=4.3.1
+
+#pillow
+pillow>= 11.1.0
+
+
