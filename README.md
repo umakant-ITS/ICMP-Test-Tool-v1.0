@@ -1,6 +1,6 @@
 # ICMP-Test-Tool-v1.0
 
-# Execute the program by enetering python icmpTestToolv1.0.py at the command line.
+Execute the program by enetering python icmpTestToolv1.0.py at the command line.
 
 Fields and their required inputs:
 1.	Enter source IP Address: The user has to enter the IP address of the machine on which this software is running.
