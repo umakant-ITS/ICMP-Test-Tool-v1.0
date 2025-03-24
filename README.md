@@ -21,3 +21,7 @@ One can escalate privilege by forming a valid comma separated command and enteri
 11.	If DUT connectivity is established, Red circular indicator will become green and tests will start. At end of the test, a PDF report and HTML report will be generated which will be in the program’s directory.
 
 Bugs can be mailed to uma.kant91@gov.in
+# Contributors:
+ Sh. Akshay Ganpati Sarvade- ICMPv4 basics
+ Smt. Harsha Ashturkar-  ICMpv4 and ICMPv6 module
+ Sh. Umakant- Project Algorithm, SSH, NTP, HTTP ,Hardware and Networking 
