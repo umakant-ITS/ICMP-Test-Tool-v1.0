@@ -22,6 +22,6 @@ One can escalate privilege by forming a valid comma separated command and enteri
 
 Bugs can be mailed to uma.kant91@gov.in
 # Contributors:
- Sh. Akshay Ganpati Sarvade- ICMPv4 basics
- Smt. Harsha Ashturkar-  ICMpv4 and ICMPv6 module
- Sh. Umakant- Project Algorithm, SSH, NTP, HTTP ,Hardware and Networking 
+1. Sh. Akshay Ganpati Sarvade- ICMPv4 basics
+2.  Smt. Harsha Ashturkar-  ICMpv4 and ICMPv6 module
+3.  Sh. Umakant- Project Algorithm, SSH, NTP, HTTP ,Hardware and Networking 
