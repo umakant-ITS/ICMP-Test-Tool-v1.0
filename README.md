@@ -25,3 +25,6 @@ Bugs can be mailed to uma.kant91@gov.in
 1. Sh. Akshay Ganpati Sarvade- ICMPv4 basics
 2.  Smt. Harsha Ashturkar-  ICMPv4 and ICMPv6 module
 3.  Sh. Umakant- Project Algorithm, SSH, NTP, HTTP ,Hardware and Networking 
+# Version History
+1. Version 1.0
+2. Version 1.2 released.
