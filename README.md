@@ -1,6 +1,7 @@
-# ICMP-Test-Tool-v1.0
-
-Execute the program by entering python icmpTestToolv1.0.py at the command line.
+# ICMP-Test-Tool-v1.2
+#Usage Guidelines:
+1. Download the release.
+2. Open command line and type python icmpTest21032025.py
 
 Fields and their required inputs:
 1.	Enter source IP Address: The user has to enter the IP address of the machine on which this software is running.
@@ -27,4 +28,4 @@ Bugs can be mailed to uma.kant91@gov.in
 3.  Sh. Umakant- Project Algorithm, SSH, NTP, HTTP ,Hardware and Networking 
 # Version History
 1. Version 1.0
-2. Version 1.2 released.
+2. Version 1.2 updated
