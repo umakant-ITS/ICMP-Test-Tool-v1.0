@@ -1,4 +1,4 @@
-# ICMP-Test-Tool-v1.2
+# ICMP-Test-Tool-v2
 #Usage Guidelines:
 1. Download the release.
 2. Open command line and type python icmpTest21032025.py
